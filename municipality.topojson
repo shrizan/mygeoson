@@ -513,38 +513,6 @@
                 {
                     "type": "Polygon",
                     "properties": {
-                        "F_ID": 93,
-                        "N_ID": "kaliya-bara",
-                        "NAME": "Kaliya",
-                        "LEVEL": "Upamahanagarpalika",
-                        "DISTRICT": "Bara"
-                    },
-                    "arcs": [
-                        [
-                            3202,
-                            3203,
-                            3204,
-                            -3172,
-                            3205,
-                            3206,
-                            3207,
-                            3208,
-                            -3150,
-                            3209,
-                            3210,
-                            3211,
-                            3212,
-                            3213,
-                            3214,
-                            -3108,
-                            3215,
-                            3216
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "properties": {
                         "F_ID": 630,
                         "N_ID": "shambhunath-saptari",
                         "NAME": "Shambhunath",
