@@ -410,27 +410,6 @@
                 {
                     "type": "Polygon",
                     "properties": {
-                        "F_ID": 519,
-                        "N_ID": "pokhariya-parsa",
-                        "NAME": "Pokhariya",
-                        "LEVEL": "Nagarpalika",
-                        "DISTRICT": "Parsa"
-                    },
-                    "arcs": [
-                        [
-                            -2922,
-                            -2926,
-                            -2931,
-                            -2934,
-                            -2913,
-                            -2916,
-                            -2920
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "properties": {
                         "F_ID": 470,
                         "N_ID": "belkotgadhi-nuwakot",
                         "NAME": "Belkotgadhi",
