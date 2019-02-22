@@ -1,0 +1,199 @@
+{
+    "type": "Topology",
+    "objects": {
+        "collection": {
+            "type": "GeometryCollection",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "geometries": [
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 542,
+                        "N_ID": "chandrapur-rautahat",
+                        "NAME": "Chandrapur",
+                        "LEVEL": "Nagarpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            -1204,
+                            -1210,
+                            -1350,
+                            2840,
+                            2841,
+                            2842
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 543,
+                        "N_ID": "birndaban-rautahat",
+                        "NAME": "Birndaban",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            -2842,
+                            2843,
+                            2844,
+                            2845,
+                            2846,
+                            2847,
+                            2848,
+                            2849,
+                            2850
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 544,
+                        "N_ID": "gujara-rautahat",
+                        "NAME": "Gujara",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            2851,
+                            2852,
+                            -1205,
+                            -2843,
+                            -2851,
+                            2853
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 546,
+                        "N_ID": "katahariya-rautahat",
+                        "NAME": "Katahariya",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            2854,
+                            2855,
+                            -2854,
+                            -2850,
+                            2856,
+                            2857,
+                            2858
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 548,
+                        "N_ID": "baudhimal-rautahat",
+                        "NAME": "Baudhimal",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            2859,
+                            2860,
+                            2861,
+                            2862,
+                            2863,
+                            2864,
+                            2865,
+                            2866,
+                            2867
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 552,
+                        "N_ID": "paroha-rautahat",
+                        "NAME": "Paroha",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            2868,
+                            2869,
+                            -2865,
+                            2870,
+                            2871,
+                            2872,
+                            2873
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 553,
+                        "N_ID": "ishanath-rautahat",
+                        "NAME": "Ishanath",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            -2869,
+                            2874,
+                            2875,
+                            2876
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 554,
+                        "N_ID": "rajpur-rautahat",
+                        "NAME": "Rajpur",
+                        "LEVEL": "Gaunpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            -2875,
+                            -2874,
+                            2877,
+                            2878
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "F_ID": 555,
+                        "N_ID": "gaur-rautahat",
+                        "NAME": "Gaur",
+                        "LEVEL": "Nagarpalika",
+                        "DISTRICT": "Rautahat"
+                    },
+                    "arcs": [
+                        [
+                            2879,
+                            -2876,
+                            -2879,
+                            2880,
+                            2881
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}
