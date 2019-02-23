@@ -9,7 +9,7 @@
   <title>localboundaries</title>
   <meta name="description" content="Gaupalika, Nagarpalika, Mahanagarpalika, Upamahanagarpalika, Nepal District, Nepal Provinces, GeoJSON, GIS Data, TopoJSON, Leaflet Nepal, Local level, GIS Data, Nepal GIS Data">
 
-  <link rel="stylesheet" href="./../css/main.css">
+  <link rel="stylesheet" href="./main.css">
 
   <link rel="canonical" href="http://username.github.io/">
   <link rel="alternate" type="application/rss+xml" title="localboundaries" href="http://username.github.io/feed.xml" />
@@ -18,7 +18,7 @@
   <link href='//fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css'>
     <script src="./d3.v3.min.js"></script>
   <script src="./topojson.v1.min.js"></script>
-  <link rel="stylesheet" href="./../css/leaflet.css" />
+  <link rel="stylesheet" href="./leaflet.css" />
   <script src="./leaflet.js"></script>
 </head>
 
@@ -33,12 +33,12 @@
 <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
     <script>
     var map = L.map('map').setView([27.0487, 85.3136], 30);
-    L.marker([27.0487, 85.3136], {
-    icon: L.mapbox.marker.icon({
-        'marker-size': 'large',
-        'marker-symbol': 'bus',
-        'marker-color': '#fa0'
-    })
+    // L.marker([27.0487, 85.3136], {
+    // icon: L.mapbox.marker.icon({
+    //     'marker-size': 'large',
+    //     'marker-symbol': 'bus',
+    //     'marker-color': '#fa0'
+    // })
 }).addTo(map);
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
         maxZoom: 8, minZoom: 6,
